@@ -1,10 +1,10 @@
 :root{
-    --primaryColor: rgba(70, 61, 25, 0.553);
-    --secondaryColor: #979790e5;
-    --whiteColor: #fff;
-    --blackColor: #222;
-    --darkGreyColor: #a7a7a7af;
-    --greyColor: #f5f5f5ec;
+    --primaryColor: #f2f4f3;
+    --secondaryColor: #854d27;
+    --whiteColor: #f4c95d;
+    --blackColor: #64030f;
+    --darkGreyColor: #dd7230;
+    --greyColor: #cbaa5d;
 }
 
 *{
@@ -64,7 +64,7 @@ body{
     height: max-content;
     min-height: 100vh;
     padding:2%;
-    background-color:rgba(44, 37, 10, 0.553);
+    background-color:rgba(163, 139, 44, 0.558);
     margin-left: 230px;
 }
 
